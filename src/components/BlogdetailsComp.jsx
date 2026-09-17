@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import UpperFromBlog from './UpperFromBlog'
-import ChoosingStickyBlog from './choosing-sticky-blog'
+import ChoosingStickyBlog from './ChoosingStickyBlog'
 import postsData from "../data/posts.json";
 
 export default function BlogdetailsComp() {

@@ -1,5 +1,5 @@
 import UpperFromBlog from './UpperFromBlog'
-import ChoosingStickyBlog from './choosing-sticky-blog'
+import ChoosingStickyBlog from './ChoosingStickyBlog'
 
 export default function Light() {
     return (

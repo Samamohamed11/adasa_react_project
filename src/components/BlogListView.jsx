@@ -1,5 +1,5 @@
 // import Blog from "../pages/Blog";
-import ChoosingStickyBlog from "./choosing-sticky-blog";
+import ChoosingStickyBlog from "./ChoosingStickyBlog";
 import UpperFromBlog from "./UpperFromBlog";
 import { Link } from 'react-router-dom'
 
